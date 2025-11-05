@@ -1,2 +1,3 @@
 git remote -v
 git remote set-url origin
+git remote set-url origin https://JunaidBoude12:<NEW_TOKEN>@github.com/JunaidBoude12/netcon.git
